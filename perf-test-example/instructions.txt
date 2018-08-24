@@ -1,0 +1,6 @@
+Here I am trying:
+
+1. Perf Benchmarking
+2. Wasted render/Un necessary re-render detection and solving that problem
+3. Virtual DOM and reconciliation
+4. State Updates, re-render, re-render propagation to child components on state update at parent

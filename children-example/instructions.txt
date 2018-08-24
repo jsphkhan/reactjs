@@ -1,0 +1,15 @@
+Create a component like
+
+<TabBar>
+    <Tab title="Tab A"/>
+    <Tab title="Tab B"/>
+    <Tab title="Tab C"/>
+</TabBar>
+
+or
+
+<Stepper>
+    <Step />
+    <Step />
+    <Step />
+</Stepper>

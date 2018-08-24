@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.links {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  float: left;
+  width: 25%;
+  background: yellow;
+}
+.content {
+  clear: left;
+  margin-left: 25%; 
+}

@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.tab-body {
+  margin: 10px;
+  border: 1px solid #9a9a9a;
+}
+.tab-body > div {
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.body1 {
+  background: tomato;
+}
+.body2 {
+  background: purple;
+}
+.body3 {
+  background: goldenrod;
+}
+
+.stepper-box {
+  margin: 10px;
+  display: flex;
+}
+.step {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  height: 40px;
+  background: #efefef;
+  margin-right: 1px;
+}
+.step.active {
+  border-bottom: 4px solid #9a9a9a;
+}

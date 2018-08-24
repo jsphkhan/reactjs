@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.form-box {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form-box input[type='text'] {
+  width: 300px;
+  height: 25px;
+  font-size: 1.2rem;
+}
+.form-box button {
+  height: 30px;
+  width: 80px;
+  margin-left: 15px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 20px;
+  padding: 0;
+}
+
+ul li {
+  background: #ffffff;
+  border: 1px solid #000000;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
